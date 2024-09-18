@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(red, yellow);
+  }
+  p{ 
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  P { font-size: 20px
+  }
+  P{
+    color:black
+  }
